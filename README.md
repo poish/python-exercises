@@ -1,2 +1,3 @@
 # python-exercises
-algorithmic exercises in python
+
+This repository is a set of algorithmic exercises with solutions

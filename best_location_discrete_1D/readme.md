@@ -10,3 +10,6 @@ There is a list of blocks representing buildings. Each building may contain cert
 ## facility requirement example
 
     ["gym", "store"]
+
+### solution
+
