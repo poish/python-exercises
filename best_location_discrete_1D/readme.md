@@ -5,8 +5,8 @@ There is a list of blocks representing buildings. Each building may contain cert
 
 ## domain example
 
-[ ["gym", "barber"], [], [], ["pool"] ] 
+    [ ["gym", "barber"], [], [], ["pool"] ] 
 
 ## facility requirement example
 
-["gym", "store"]
+    ["gym", "store"]
